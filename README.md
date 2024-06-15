@@ -1,0 +1,2 @@
+# English-Vietnamese Translation using Transformers
+This repository is for training a Transformer model for English to Vietnamese translation. The code is based on the [pytorch-transformer](https://github.com/hkproj/pytorch-transformer) repository, which was originally designed for English to Italian translation.
