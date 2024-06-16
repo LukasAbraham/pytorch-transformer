@@ -1,7 +1,8 @@
 __pycache__
 *.pt
 *.json
+*test*
 runs/
 weights/
-*test*
 wandb/
+charts/
